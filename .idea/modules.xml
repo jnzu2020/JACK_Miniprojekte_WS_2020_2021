@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JACK_Miniprojekte_WS_2020_2021.iml" filepath="$PROJECT_DIR$/JACK_Miniprojekte_WS_2020_2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt_1_Messwerte_und_Matrizen/Miniprojekt_1_Messwerte_und_Matrizen.iml" filepath="$PROJECT_DIR$/Miniprojekt_1_Messwerte_und_Matrizen/Miniprojekt_1_Messwerte_und_Matrizen.iml" />
+    </modules>
+  </component>
+</project>
