@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JACK_Miniprojekte_WS_2020_2021.iml" filepath="$PROJECT_DIR$/JACK_Miniprojekte_WS_2020_2021.iml" />
       <module fileurl="file://$PROJECT_DIR$/Miniprojekt_1_Messwerte_und_Matrizen/Miniprojekt_1_Messwerte_und_Matrizen.iml" filepath="$PROJECT_DIR$/Miniprojekt_1_Messwerte_und_Matrizen/Miniprojekt_1_Messwerte_und_Matrizen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miniprojekt_2_Zuege_und_Waggons/Miniprojekt_2_Zuege_und_Waggons.iml" filepath="$PROJECT_DIR$/Miniprojekt_2_Zuege_und_Waggons/Miniprojekt_2_Zuege_und_Waggons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Miniprojekt_4_Vererbung/Miniprojekt_4_Vererbung.iml" filepath="$PROJECT_DIR$/Miniprojekt_4_Vererbung/Miniprojekt_4_Vererbung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Miniprojekt_5_Datenbank/Miniprojekt_5_Datenbank.iml" filepath="$PROJECT_DIR$/Miniprojekt_5_Datenbank/Miniprojekt_5_Datenbank.iml" />
     </modules>
